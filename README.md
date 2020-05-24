@@ -2,7 +2,7 @@
 
 This repository contains useful scripts to support the wider suite of repositories.
 
-# script
+## script
 
 This script enables the finding of latitude and longitude coordinates from google searches. Place the google searches in a column in an 'input.csv' file, and the 'output.csv' file will contain the latitude and longitude coordinates.
 
